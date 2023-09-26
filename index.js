@@ -23,5 +23,3 @@ function getLevel(xp) {
 const level = getLevel(xp);
 
 console.log(`The Hero named ${heroName} is at the level of ${level}`);
-
-console.log(levels["Gold"]);
